@@ -27,8 +27,7 @@ Event Management System
 <hr>
 
 ## Admin Login
-Admin Login Detail
-Username : admin
+Username : admin <br>
 password : admin123
 <img width="1919" height="1079" alt="Screenshot 2025-09-05 142710" src="https://github.com/user-attachments/assets/a50da5a1-df4c-4eab-9e81-095cbde6513d" />
 
@@ -42,4 +41,27 @@ password : admin123
 ## Venue Booking List
 
 <img width="1919" height="1079" alt="Screenshot 2025-09-05 142756" src="https://github.com/user-attachments/assets/d47a08e7-688f-4bdd-8df3-5ab45ae80846" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-05 142807" src="https://github.com/user-attachments/assets/cb19cf24-983d-4b77-a295-7a79c43fe874" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-05 142828" src="https://github.com/user-attachments/assets/34acaec1-8a09-4e09-82e2-c7dd8f63f77f" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-05 142836" src="https://github.com/user-attachments/assets/48d4e59a-f1ac-4aac-ab9d-4609f8effeeb" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-05 143013" src="https://github.com/user-attachments/assets/30894803-8a3e-4c11-891a-d2e8b3d15390" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-05 143135" src="https://github.com/user-attachments/assets/8b806e6b-238d-46de-91da-4b5d2b92d3d7" />
+<img width="1919" height="1011" alt="Screenshot 2025-09-05 143144" src="https://github.com/user-attachments/assets/f8a5b411-ee5f-4d65-93f0-9ffe81fa6182" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-05 143250" src="https://github.com/user-attachments/assets/11a8f43d-8457-4c0b-a4c7-ad6b1c53848a" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-05 143259" src="https://github.com/user-attachments/assets/3eaee482-a99a-4601-8da4-a44f4c4767c4" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-05 143310" src="https://github.com/user-attachments/assets/ba1ef2b0-2019-4b8e-a3b0-1c6b1ce731e6" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-05 143324" src="https://github.com/user-attachments/assets/d02a0b8f-0169-42ea-9293-6f656ae05b2e" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
