@@ -27,5 +27,48 @@ Event Management System
 <hr>
 
 ## Admin Login
+Admin Login Detail
+Username : admin
+password : admin123
 <img width="1919" height="1079" alt="Screenshot 2025-09-05 142710" src="https://github.com/user-attachments/assets/a50da5a1-df4c-4eab-9e81-095cbde6513d" />
+
+<hr>
+
+## Admin Dashboard
+<img width="1919" height="1079" alt="Screenshot 2025-09-05 142719" src="https://github.com/user-attachments/assets/4843042c-19c8-46a7-8d92-59c7eaee6917" />
+
+<hr>
+
+## Venue Booking List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
