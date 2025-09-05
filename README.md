@@ -54,10 +54,10 @@ password : admin123
 
 ## Other
 <b>Email:</b> krishnasingh192003@gmail.com  <br>
-LinkdIn: linkedin.com/in/krishna-singh-0546a42ab  <br>
-Github Repo: https://github.com/singhkrishna2003/eMange.git  <br>
-Zip File: https://drive.google.com/file/d/1xHPdZJ39CyMNewYWwWdturiP3ZmRd_OB/view?usp=sharin  <br>
-Video Link: https://drive.google.com/file/d/1JgXtXXW-aRFdY5GvDZ42MGZSC9mmB4Xb/view?usp=drivesdk  <br>
+<b>LinkdIn:</b> [linkedin.com/in/krishna-singh-0546a42ab](https://www.linkedin.com/in/krishna-singh-0546a42ab/)  <br>
+<b>Github Repo:</b> https://github.com/singhkrishna2003/eMange.git  <br>
+<b>Zip File: </b> https://drive.google.com/file/d/1xHPdZJ39CyMNewYWwWdturiP3ZmRd_OB/view?usp=sharin  <br>
+<b>Video Link: </b> https://drive.google.com/file/d/1JgXtXXW-aRFdY5GvDZ42MGZSC9mmB4Xb/view?usp=drivesdk  <br>
 
 
 
