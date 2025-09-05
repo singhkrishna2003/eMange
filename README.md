@@ -9,7 +9,10 @@ Event Management System
 <img width="1919" height="1079" alt="Screenshot 2025-09-05 142524" src="https://github.com/user-attachments/assets/5e04fb83-17df-4741-bf3a-8b35eeca9af2" />
 
 <hr>
+
 ## Venue Page
-
-
+<img width="1919" height="1075" alt="Screenshot 2025-09-05 142542" src="https://github.com/user-attachments/assets/e7fcd814-d11e-4231-a6a5-5412f89e305f" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-05 142549" src="https://github.com/user-attachments/assets/c8f998fd-d8d9-41d9-b967-69e7f948997c" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-05 142556" src="https://github.com/user-attachments/assets/9abc818b-996c-4ed9-96d9-cef31f047231" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-05 142535" src="https://github.com/user-attachments/assets/fea0d3d3-d2cd-4538-9518-e45bdd2184fd" />
 
