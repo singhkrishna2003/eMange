@@ -52,6 +52,13 @@ password : admin123
 <img width="1919" height="1079" alt="Screenshot 2025-09-05 143310" src="https://github.com/user-attachments/assets/ba1ef2b0-2019-4b8e-a3b0-1c6b1ce731e6" />
 <img width="1919" height="1079" alt="Screenshot 2025-09-05 143324" src="https://github.com/user-attachments/assets/d02a0b8f-0169-42ea-9293-6f656ae05b2e" />
 
+## Other
+<b>Email:</b> krishnasingh192003@gmail.com  <br>
+LinkdIn: linkedin.com/in/krishna-singh-0546a42ab  <br>
+Github Repo: https://github.com/singhkrishna2003/eMange.git  <br>
+Zip File: https://drive.google.com/file/d/1xHPdZJ39CyMNewYWwWdturiP3ZmRd_OB/view?usp=sharin  <br>
+Video Link: https://drive.google.com/file/d/1JgXtXXW-aRFdY5GvDZ42MGZSC9mmB4Xb/view?usp=drivesdk  <br>
+
 
 
 
